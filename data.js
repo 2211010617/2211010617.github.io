@@ -1629,6 +1629,7 @@
                                                 ]]
                                             ]
                                         ],
+                                       
                                         [0, null, false, null, 1793501354868495, [
                                             [-1, 43, null, 0, false, false, false, 9776044120816472, false],
                                             [25, 44, null, 0, false, false, false, 9530962753947138, false, [
@@ -1641,7 +1642,10 @@
                                                 [3, 20, null, 2033871596463807, false, [
                                                     [1, [2, "RunAttack"]],
                                                     [13, [7, [19, 53, [
-                                                        [2, "sans_bonegap1"]
+                                                        [2, "sans_bonegap1fast"],
+                                                        [2, "sans_bonegap2"],
+                                                        [2, "sans_boneslideh"],
+                                                        [2, "sans_platformblasterfast"]
                                                     ]]]]
                                                 ]]
                                             ]
@@ -11365,8 +11369,8 @@
                 [1, "PracticeTarget", 0, 60, false, false, 824857649224256, false],
                 [1, "SingleAttack", 1, "", false, false, 9637412728316299, false],
                 [1, "Name", 1, "Chara", false, false, 8522084662131715, false],
-                [1, "HP", 0, 92000, false, false, 4067313995094888, false],
-                [1, "MaxHP", 0, 92000, false, false, 2742940924955148, false],
+                [1, "HP", 0, 92, false, false, 4067313995094888, false],
+                [1, "MaxHP", 0, 92, false, false, 2742940924955148, false],
                 [1, "KR", 0, 0, false, false, 2189987320058474, false],
                 [1, "KR_T", 0, 0, false, false, 8948293770944489, false]
             ]],
